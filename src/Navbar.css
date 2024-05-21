@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+}
+
+.nav-links, .auth-links {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li, .auth-links li {
+  margin-right: 20px;
+}
+
+.nav-links li a, .auth-links li a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-links li a:hover, .auth-links li a:hover {
+  text-decoration: underline;
+}
