@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vebprogr//static/css/main.82d36756.css",
+    "main.js": "/vebprogr//static/js/main.5634f1b7.js",
+    "index.html": "/vebprogr//index.html",
+    "main.82d36756.css.map": "/vebprogr//static/css/main.82d36756.css.map",
+    "main.5634f1b7.js.map": "/vebprogr//static/js/main.5634f1b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82d36756.css",
+    "static/js/main.5634f1b7.js"
+  ]
+}
